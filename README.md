@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shozo-dono.Shozo-dono" />
 
 <h1 align="center">
+    <iframe src="https://assets.pinterest.com/ext/embed.html?id=791859547032310639" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
     <img src="https://pin.it/66htMPNOo" />
 </h1>
 
