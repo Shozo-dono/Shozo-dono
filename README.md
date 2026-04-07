@@ -31,22 +31,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,mysql," /><br />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </div>
-/*
-<hr />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<div align="center">
-    <a href="https://github.com/Shozo-dono">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shozo-dono&show_icons=true&theme=radical"
-            alt="GitHub Stats" />
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Shozo-dono&theme=prussian&border_radius=15&short_numbers=true"
-            alt="GitHub Streak" />
-    </a>
-
-</div>
-
-<hr />
-*/
