@@ -4,7 +4,7 @@
     <img src="images/Pixel-Souls-banner-2.gif" alt="Banner" width="100%" height="350" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shamir Rasul</h1>
+<h1 align="center">Welcome</h1>
 
 <p align="center">
     <a href="mailto:raulshamir@gmail.com">
@@ -19,15 +19,7 @@
 </p>
 
 <div align="center">
-    🔭 currently working on Upstaff Academy (LMS) <br />
-    🌱 currently learning Docker, reactjs, Laravel <br />
+    With Upstaff Zamboanga <br />
 </div>
 
 <hr />
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" /><br />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,mysql," /><br />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
-</div>
